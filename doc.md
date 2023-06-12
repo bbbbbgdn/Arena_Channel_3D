@@ -1,4 +1,4 @@
 ## Patch Variables:
 
-* __Text Overlay__ ```Number``` (default Value: `0`)
+* __Text Overlay__ ```Number``` (default Value: `1`)
 
